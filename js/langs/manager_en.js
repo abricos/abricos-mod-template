@@ -1,4 +1,4 @@
-Brick.util.Language.add('ru',{'mod': {'{C#MODNAME}':{
+Brick.util.Language.add('en',{'mod': {'{C#MODNAME}':{
 	'brick': {
 		'paramtype': {
 			'0': 'Лок. перемен.',

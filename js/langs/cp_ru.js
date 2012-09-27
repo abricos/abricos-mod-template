@@ -1,7 +1,9 @@
-Brick.util.Language.add('ru',{'mod': {'template': {
+Brick.util.Language.add('ru',{'mod': {'{C#MODNAME}':{
 	'title': 'Шаблоны',
-	'roles':{
+	'roles': {
 		'50': 'Администрирование'
 	},
-	'cp':{'title': 'Шаблоны' }
+	'cp': {
+		'title': 'Шаблоны'
+	}
 }}});
